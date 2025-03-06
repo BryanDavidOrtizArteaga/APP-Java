@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Splash Screen - Java</string>
+    <string name="tv_bienvenida">Virtual assistant for your printer</string>
+    <string name="Txt_login">Log In</string>
+    <string name="Txt_comment">Hi there! Nice to see you again.</string>
+    <string name="Et_email">Email</string>
+    <string name="Et_password">Password</string>
+    <string name="Btn_ingresar">Log in</string>
+    <string name="Txt_no_cuenta">Don\'t have an account?</string>
+    <string name="Txt_registrarme">Sign Up</string>
+    <string name="Txt_crear_cuenta">Email</string>
+    <string name="Et_nombre">Nombres</string>
+    <string name="Et_correo">Your email</string>
+    <string name="Et_contrasena">Your password</string>
+    <string name="Et_confirmar_contrasena">Confirm password</string>
+    <string name="Btn_registar_usuario">Continue</string>
+    <string name="Txt_tengo_una_cuenta">Have an Account?</string>
+    <string name="Txt_veri">Password</string>
+
+</resources>
+
+
+

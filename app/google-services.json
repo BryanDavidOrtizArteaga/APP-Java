@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492680201132",
+    "project_id": "login-dcb74",
+    "storage_bucket": "login-dcb74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492680201132:android:83ea2aab8be001465cb009",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen_java"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmnrQ-KLDh2ZOkz1js91s10cAZG5qlDIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
